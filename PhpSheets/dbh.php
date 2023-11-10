@@ -1,8 +1,8 @@
 <?php
- $serverName="localhost";
- $DBusername="root";
- $DBpassword="";
- $DBname="bewow";
+ $serverName="test";
+ $DBusername="test";
+ $DBpassword="test";
+ $DBname="test";
 
  $conn=mysqli_connect($serverName,$DBusername,$DBpassword,$DBname);
  if(!$conn){
