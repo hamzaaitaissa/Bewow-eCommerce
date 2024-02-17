@@ -125,7 +125,7 @@ body{
     <div class="container" style="width:40%;padding:1rem;border:1px solid black;border-radius:30px;margin:1rem 0rem 1rem 0rem;text-align:center;display:flex;flex-direction:column;justify-content:space-between;align-items:center" id="c1">
     <span style="font-size: 30px;font-weight:bold">Our Socials:</span>
     <span style="font-size: 20px;"><i class="fas fa-envelope"></i> hamzaaitaissa8@gmail.com</span>
-    <span style="font-size: 20px;"><i class="fas fa-phone-alt"></i> 0644203651</span>
+    <span style="font-size: 20px;"><i class="fas fa-phone-alt"></i> 06********</span>
     <span style="font-size: 20px;"><i class="fab fa-facebook"></i> Facebook.com</span>
     <span style="font-size: 20px;"><i class="fab fa-instagram"></i> Instagram.com</span>
     </div>
