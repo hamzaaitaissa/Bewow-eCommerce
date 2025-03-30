@@ -49,4 +49,5 @@ Database Setup: Import the .sql file into the hosting server’s phpMyAdmin.
 Configure Server: Ensure your web hosting server has PHP and MySQL support.
 
 📄 License
+
 This project is licensed under the MIT License.
